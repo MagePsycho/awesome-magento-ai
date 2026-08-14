@@ -80,12 +80,6 @@ Prompt packs, skills and subagent definitions that teach a coding agent how Mage
 
 ### Store-side — catalog, orders and customers
 
-> **Adwise** ships a core MCP module plus extensions for catalog management and Hyvä CMS.
-
-- **[magento2-mcp](https://github.com/adwise/magento2-mcp)** ![stars](https://img.shields.io/github/stars/adwise/magento2-mcp?style=flat-square&label=&color=555) 🧩 — Lightweight Magento MCP server with store information, module status, configuration, cache and indexer tools.
-  - **[magento2-mcp-catalog](https://github.com/adwise/magento2-mcp-catalog)** ![stars](https://img.shields.io/github/stars/adwise/magento2-mcp-catalog?style=flat-square&label=&color=555) — Catalog management tools and resources for the core MCP module.
-  - **[magento2-mcp-hyva-cms](https://github.com/adwise/magento2-mcp-hyva-cms)** ![stars](https://img.shields.io/github/stars/adwise/magento2-mcp-hyva-cms?style=flat-square&label=&color=555) — Hyvä CMS guidance, prompts and page-editing tools for the core MCP module.
-
 > **Magebit** ships a core MCP module plus tool extensions.
 
 - **[magento2-mcp-module](https://github.com/magebitcom/magento2-mcp-module)** ![stars](https://img.shields.io/github/stars/magebitcom/magento2-mcp-module?style=flat-square&label=&color=555) 🧩 — Extensible MCP module — interact with your store through any MCP-compatible AI agent.
@@ -93,6 +87,9 @@ Prompt packs, skills and subagent definitions that teach a coding agent how Mage
 - **[magemcp](https://github.com/magendooro/magemcp)** ![stars](https://img.shields.io/github/stars/magendooro/magemcp?style=flat-square&label=&color=555) — Exposes catalog, orders, customers and inventory as MCP tools over REST and GraphQL, with built-in PII redaction.
 - **[magento2-mcp-server](https://github.com/yuriyakishin/magento2-mcp-server)** ![stars](https://img.shields.io/github/stars/yuriyakishin/magento2-mcp-server?style=flat-square&label=&color=555) 🧩 — Free MCP server for catalog, orders, customers, CMS and sales, secured with OAuth 2.1 and Magento ACL.
 - **[AgentoAI](https://github.com/Genaker/AgentoAI)** ![stars](https://img.shields.io/github/stars/Genaker/AgentoAI?style=flat-square&label=&color=555) 🧩 — Magento MCP AI agent plus AI features: product content, report generation, grid filters, promotion images, product video, AI analytics.
+- **[magento2-mcp](https://github.com/adwise/magento2-mcp)** ![stars](https://img.shields.io/github/stars/adwise/magento2-mcp?style=flat-square&label=&color=555) 🧩 — Lightweight Magento MCP server with store information, module status, configuration, cache and indexer tools.
+  - **[magento2-mcp-catalog](https://github.com/adwise/magento2-mcp-catalog)** ![stars](https://img.shields.io/github/stars/adwise/magento2-mcp-catalog?style=flat-square&label=&color=555) — Catalog management tools and resources for the core MCP module.
+  - **[magento2-mcp-hyva-cms](https://github.com/adwise/magento2-mcp-hyva-cms)** ![stars](https://img.shields.io/github/stars/adwise/magento2-mcp-hyva-cms?style=flat-square&label=&color=555) — Hyvä CMS guidance, prompts and page-editing tools for the core MCP module.
 
 ## 🧩 Magento Modules — AI in the Store
 
