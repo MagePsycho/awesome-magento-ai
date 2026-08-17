@@ -78,6 +78,7 @@ Prompt packs, skills and subagent definitions that teach a coding agent how Mage
 - **[magector](https://github.com/krejcif/magector)** ![stars](https://img.shields.io/github/stars/krejcif/magector?style=flat-square&label=&color=555) — Technology-aware MCP server that builds a semantic vector index of the whole codebase (18,000+ files) and exposes 47 tools with Magento pattern detection — plugins, observers, DI preferences, layout XML.
 - **[magento-coding-standard-mcp](https://github.com/Midhun-edv/magento-coding-standard-mcp)** ![stars](https://img.shields.io/github/stars/Midhun-edv/magento-coding-standard-mcp?style=flat-square&label=&color=555) — Teaches assistants Magento 2 coding standards: validate code, look up patterns, check security, apply theme rules (Hyvä, Luma, Breeze, Porto).
 - **[magento-graphql-docs-mcp](https://github.com/florinel-chis/magento-graphql-docs-mcp)** ![stars](https://img.shields.io/github/stars/florinel-chis/magento-graphql-docs-mcp?style=flat-square&label=&color=555) — Local stdio MCP server for searching and retrieving Magento 2 GraphQL API documentation offline.
+- **[n98-magerun2 `mcp:server:start`](https://netz98.github.io/n98-magerun2/command-docs/mcp/mcp-server-start/)** ![stars](https://img.shields.io/github/stars/netz98/n98-magerun2?style=flat-square&label=&color=555) 🖥 — Exposes n98-magerun2 commands as executable tools to MCP clients over stdio transport, with include/exclude patterns and command groups (`@cache`, `@database`, `@development`) controlling what a client can run.
 
 ### Store-side — catalog, orders and customers
 
@@ -146,6 +147,7 @@ Making the store legible to answer engines and shopping agents, not just to Goog
 - **[mage-local-ai](https://github.com/MaheshLalwaani/mage-local-ai)** ![stars](https://img.shields.io/github/stars/MaheshLalwaani/mage-local-ai?style=flat-square&label=&color=555) — Offline Magento customization advisor.
 - **[mageops-squad](https://github.com/omdeshpande/mageops-squad)** ![stars](https://img.shields.io/github/stars/omdeshpande/mageops-squad?style=flat-square&label=&color=555) — A team of AI agents to help manage your Magento store.
 - **[mnemix](https://github.com/minsarai/mnemix)** ![stars](https://img.shields.io/github/stars/minsarai/mnemix?style=flat-square&label=&color=555) — Organisational AI memory layer for engineering teams using Claude Code.
+- See also **[n98-magerun2](https://github.com/netz98/n98-magerun2)** — its [`mcp:server:start`](https://netz98.github.io/n98-magerun2/command-docs/mcp/mcp-server-start/) command turns the CLI into an MCP server; see [🔌 MCP Servers](#-mcp-servers).
 
 ## 📦 Starter Kits & Templates
 
