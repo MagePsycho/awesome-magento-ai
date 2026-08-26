@@ -68,6 +68,7 @@ Prompt packs, skills and subagent definitions that teach a coding agent how Mage
 - **[wardenenv/ai-skills](https://github.com/wardenenv/ai-skills)** ![stars](https://img.shields.io/github/stars/wardenenv/ai-skills?style=flat-square&label=&color=555) — Agent skills for Warden, the Docker-based local development environment many Magento shops run on.
 - **[claude-code-templates](https://github.com/davila7/claude-code-templates)** ![stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&label=&color=555) — CLI for configuring and monitoring Claude Code.
 - **[agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)** ![stars](https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=flat-square&label=&color=555) — Agent-first control plane over a 2,005+ skill catalog, with CLI, local MCP, plugins and workbench.
+- **[Writ](https://github.com/infinri/Writ)** ![stars](https://img.shields.io/github/stars/infinri/Writ?style=flat-square&label=&color=555) — Governance runtime for Claude Code: enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
 
 ## 🔌 MCP Servers
 
