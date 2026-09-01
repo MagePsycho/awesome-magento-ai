@@ -163,6 +163,7 @@ Making the store legible to answer engines and shopping agents, not just to Goog
 ## ☁️ Hosted & Commercial
 
 - **[Agent for Magento](https://agentformagento.com/)** — A chat where you describe what to build, change or fix in your store; a specialized agent clarifies, completes and validates the task in minutes.
+- **[BuyWhere](https://github.com/buywhere/buywhere-mcp-server)** ☁️ 🧭 — Hosted shopping MCP server that lets AI agents search products, compare merchants, and retrieve real-time commerce data via a public API.
 - **[MageWatch](https://magewatch.io/)** — Health monitoring for Magento 2 stores built for agencies: stuck indexers, dead crons, silent order drops. Open-source in-store agent: [magewatch-module-agent](https://github.com/krivtsuna/magewatch-module-agent).
 - **[Byte8 Pulsar](https://byte8.io/products/pulsar)** — Magento-aware monitoring: external synthetic uptime, real-Chromium checkout-flow testing (Luma and Hyvä presets), and an optional extension with 20 health collectors — indexer drift, cron heartbeat, queue backlog, OpenSearch state, stuck `pending_payment` orders. Catches the silent failures that still return HTTP 200. Part of the [Byte8 platform](https://byte8.io/products) alongside Orbit, Horizon and Cargoman.
 
