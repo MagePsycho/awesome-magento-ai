@@ -171,6 +171,7 @@ Making the store legible to answer engines and shopping agents, not just to Goog
 - **[Magento AI Agent: Automating Issue Resolution](https://elgentos.com/blog/magento-ai-agent-digitale-werknemer)** — elgentos on the AI agent they built to automate issue resolution and streamline workflows.
 - **[ai-blueprint](https://github.com/bradtraversy/ai-blueprint)** ![stars](https://img.shields.io/github/stars/bradtraversy/ai-blueprint?style=flat-square&label=&color=555) 🧭 — A repeatable process for coding with AI while staying the architect of your project.
 - **[awesome-magento-aeo](https://github.com/angeo-dev/awesome-magento-aeo)** ![stars](https://img.shields.io/github/stars/angeo-dev/awesome-magento-aeo?style=flat-square&label=&color=555) — Modules, specifications and tools that make a Magento 2 or Adobe Commerce store discoverable, readable and transactable by AI systems.
+- **[ProxiBlue Engineering Notes](https://www.proxiblue.com.au/blog/)** 🧭 — Engineering notes from Lucas van Staden / ProxiBlue on how he runs, tests and governs AI coding agents for real client work.
 
 ## Contributing
 
