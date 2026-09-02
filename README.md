@@ -80,6 +80,8 @@ Prompt packs, skills and subagent definitions that teach a coding agent how Mage
 - **[magento-graphql-docs-mcp](https://github.com/florinel-chis/magento-graphql-docs-mcp)** ![stars](https://img.shields.io/github/stars/florinel-chis/magento-graphql-docs-mcp?style=flat-square&label=&color=555) — Local stdio MCP server for searching and retrieving Magento 2 GraphQL API documentation offline.
 - **[magento.watch](https://magento.watch)** ☁️ — Free JSON API and MCP server for Magento Open Source, Adobe Commerce and Mage-OS version release dates, end-of-life schedules and PHP/MySQL/OpenSearch/Redis system requirements.
 - **[n98-magerun2 `mcp:server:start`](https://netz98.github.io/n98-magerun2/command-docs/mcp/mcp-server-start/)** ![stars](https://img.shields.io/github/stars/netz98/n98-magerun2?style=flat-square&label=&color=555) 🖥 — Exposes n98-magerun2 commands as executable tools to MCP clients over stdio transport, with include/exclude patterns and command groups (`@cache`, `@database`, `@development`) controlling what a client can run.
+- **[pb-codegraph](https://github.com/ProxiBlue/pb-codegraph)** ![stars](https://img.shields.io/github/stars/ProxiBlue/pb-codegraph?style=flat-square&label=&color=555) — Cross-module impact analysis for Magento 2 / Mage-OS, detecting blast radius (callers, plugin chains, observers, cron data dependencies) before deploy.
+- **[pb-hypernode-mcp](https://github.com/ProxiBlue/pb-hypernode-mcp)** ![stars](https://img.shields.io/github/stars/ProxiBlue/pb-hypernode-mcp?style=flat-square&label=&color=555) — Client-side Claude Code plugin for Hypernode Brancher, spinning up disposable prod-clone preview environments and driving AI-assisted changes over SSH.
 
 ### Store-side — catalog, orders and customers
 
